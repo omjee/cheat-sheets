@@ -14,7 +14,7 @@
 | :--- | :------------- |
 | ⌘    | ⌘ +  / Cmd     |
 | ⌃    | Control / Ctrl |
-| ⌥    | ⌥ + s / Alt    |
+| ⌥    | ⌥ + s / Alt /Option   |
 | ⇧    | Shift          |
 | ⇪    | Caps Lock      |
 | Fn   | Function key   |
